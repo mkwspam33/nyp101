@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-09 16:30:02</sys_created_on>
+        <sys_id>2e9c606577223300ec23b5b268106147</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_np1_mtab.sn_np1.mtab_user</sys_name>
+        <sys_package display_value="np1" source="sn_np1">a08b68e177223300ec23b5b2681061d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="np1">a08b68e177223300ec23b5b2681061d4</sys_scope>
+        <sys_security_acl display_value="sn_np1_mtab">de9c606577223300ec23b5b268106143</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2e9c606577223300ec23b5b268106147</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-09 16:30:02</sys_updated_on>
+        <sys_user_role display_value="sn_np1.mtab_user" name="sn_np1.mtab_user">829c6c2577223300ec23b5b2681061ae</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
