@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-09 16:31:49</sys_created_on>
+        <sys_id>a40d286577223300ec23b5b268106171</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_np1_blue1.sn_np1.blue1_user</sys_name>
+        <sys_package display_value="np1" source="sn_np1">a08b68e177223300ec23b5b2681061d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="np1">a08b68e177223300ec23b5b2681061d4</sys_scope>
+        <sys_security_acl display_value="sn_np1_blue1">680d286577223300ec23b5b26810616e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a40d286577223300ec23b5b268106171</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-09 16:31:49</sys_updated_on>
+        <sys_user_role display_value="sn_np1.blue1_user" name="sn_np1.blue1_user">5c0d246577223300ec23b5b2681061db</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="np1">a08b68e177223300ec23b5b2681061d4</application>
+        <file_path/>
+        <instance_id>newyork8081</instance_id>
+        <instance_name>unregistered</instance_name>
+        <name>sys_security_acl_role_a40d286577223300ec23b5b268106171</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-07-09 16:31:49</sys_created_on><sys_id>a40d286577223300ec23b5b268106171</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_np1_blue1.sn_np1.blue1_user</sys_name><sys_package display_value="np1" source="sn_np1">a08b68e177223300ec23b5b2681061d4</sys_package><sys_policy/><sys_scope display_value="np1">a08b68e177223300ec23b5b2681061d4</sys_scope><sys_security_acl display_value="sn_np1_blue1">680d286577223300ec23b5b26810616e</sys_security_acl><sys_update_name>sys_security_acl_role_a40d286577223300ec23b5b268106171</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-07-09 16:31:49</sys_updated_on><sys_user_role display_value="sn_np1.blue1_user" name="sn_np1.blue1_user">5c0d246577223300ec23b5b2681061db</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>572831827</payload_hash>
+        <record_name>sn_np1_blue1.sn_np1.blue1_user</record_name>
+        <reverted_from/>
+        <source>668bace177223300ec23b5b26810619f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-09 16:31:49</sys_created_on>
+        <sys_id>6c0d286577223300ec23b5b268106173</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16bd793b18b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-09 16:31:49</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>a40d28658f223300127b5a867d9f4273</update_guid>
+        <update_guid_history>a40d28658f223300127b5a867d9f4273:572831827</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="sn_np1_blue1.sn_np1.blue1_user">223d2c6577223300ec23b5b26810617e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-09 16:32:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>8e7c650edd7e4d88a2fc4179dfd14304</sys_id>
+        <sys_metadata>a40d286577223300ec23b5b268106171</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_np1_blue1.sn_np1.blue1_user</sys_name>
+        <sys_package display_value="np1" source="sn_np1">a08b68e177223300ec23b5b2681061d4</sys_package>
+        <sys_parent display_value="">680d286577223300ec23b5b26810616e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="np1">a08b68e177223300ec23b5b2681061d4</sys_scope>
+        <sys_scope_delete display_value="">030e3f23b1854d0c8009f51ab93efb51</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_a40d286577223300ec23b5b268106171</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_a40d286577223300ec23b5b268106171">6c0d286577223300ec23b5b268106173</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-09 16:32:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
